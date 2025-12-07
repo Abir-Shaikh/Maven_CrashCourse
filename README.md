@@ -12,12 +12,14 @@ Running the Maven build lifecycle (clean, compile, package)
 
 Creating and running a simple Java application with Maven
 
+
 📁 Project Structure
 myapp/
  └── src/
      ├── main/java
      └── test/java
  └── pom.xml
+
 
 📦 Running the Project
 
