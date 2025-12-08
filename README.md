@@ -20,7 +20,6 @@ myapp/
      └── test/java
  └── pom.xml
 
-
 📦 Running the Project
 
 Make sure Maven is installed. Then run:
